@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning: 
 
-   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ## About Me 
 - :school: Graduated with a Bachelors of Science in Computer Science with a focus in Software Engineering at The National College of Ireland in 2014
 
