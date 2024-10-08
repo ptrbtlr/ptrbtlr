@@ -5,7 +5,7 @@
    ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ## About Me 
 - :school: Graduated with a Bachelors of Science in Computer Science with a focus in Software Engineering at The National College of Ireland in 2014
-- I founded my own company C.B Development in 2014 with the help of a government grant scheme. I scaled the company to 6 staff and we designed and developed websites for SME's using Wordpress and custom websites, with React.
+- I founded my own company C.B Development in 2014 with the help of a government grant scheme. I scaled the company to 6 full-time employees and we designed and developed websites for SME's using Wordpress and custom websites, with React.
 ## Socials 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cpeter-butler/)
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ptrbtlr)
